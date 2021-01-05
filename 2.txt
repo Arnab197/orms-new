@@ -1,3 +1,7 @@
 nmew file
 new change
+<<<<<<< HEAD
 new text
+=======
+added
+>>>>>>> 1d5f4fd15f3b7d65e2037f2aa80b24f477b7abaf
